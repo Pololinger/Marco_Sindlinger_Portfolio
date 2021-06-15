@@ -74,6 +74,13 @@ Clustering Earthquakes based on their location with the challenge of calculating
 
 ![earthquake][8]
 
+### 8) Neural Artworks
+
+I like to experiment with Neural Style Transfer, BigSleep, Deep Daze and similar to produce images as such:
+
+
+![father_nile][9]
+![sphinx][10]
 
 [1]: ./assets/CoronaKarte.PNG
 [2]: ./assets/dbscan.png
@@ -83,4 +90,6 @@ Clustering Earthquakes based on their location with the challenge of calculating
 [6]: ./assets/genres.png
 [7]: ./assets/subtitles.png
 [8]: ./assets/earthquake.PNG
+[9]: ./assets/father_nile.png
+[10]: ./assets/sphinx.png
 

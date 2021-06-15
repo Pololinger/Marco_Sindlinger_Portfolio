@@ -83,3 +83,4 @@ Clustering Earthquakes based on their location with the challenge of calculating
 [6]: ./assets/genres.png
 [7]: ./assets/subtitles.png
 [8]: ./assets/earthquake.PNG
+

@@ -65,7 +65,7 @@ Clustering Earthquakes based on their location with the challenge of calculating
 ![andrew][7]
 
 
-### 7) [Web Scraping Earthquake Data with Beautiful Soup](https://github.com/Pololinger/TurkeyEarthquakeDataCrawler)
+### 7) [Web Scraping Earthquake Data with BeautifulSoup](https://github.com/Pololinger/TurkeyEarthquakeDataCrawler)
 
 * The BDTIM Bogazici University Earthquake Center publishes always the 500 most recent earthquakes in Turkey on its website
 * This scraper collects this data and puts into a .txt

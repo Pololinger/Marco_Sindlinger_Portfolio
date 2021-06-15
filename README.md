@@ -1,4 +1,4 @@
-
+# Marco Sindlinger
 
 ### 1) [www.CoronaKarte.info](www.CoronaKarte.info)
 A website keeping track of the spread of COVID-19 in Germany. Includes key statistics on cases and on the vaccination progress

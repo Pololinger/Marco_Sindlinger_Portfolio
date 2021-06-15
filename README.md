@@ -77,7 +77,7 @@ Clustering Earthquakes based on their location with the challenge of calculating
 
 [1]: ./assets/CoronaKarte.PNG
 [2]: ./assets/dbscan.png
-[3]: ./assets/dm.png
+[3]: ./assets/dm.PNG
 [4]: ./assets/forecast.png
 [5]: ./assets/confusion_matrix.png
 [6]: ./assets/genres.png

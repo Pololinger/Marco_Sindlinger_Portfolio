@@ -8,7 +8,7 @@ A website keeping track of the spread of COVID-19 in Germany. Includes key stati
 * Front-End Development, mobile optimization with Dash /Flask and CSS
 * Automation with Azure Resource Manager, Runbooks
 * Deployment with Docker
-* Animation of the data for social Media, [Link](https://twitter.com/Coronakarte)
+* Animation of the data to .GIF / .MP4 for social media, [Link](https://twitter.com/Coronakarte)
 
 ![CoronaKarte][1]
 
